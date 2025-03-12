@@ -1,2 +1,11 @@
-# Assgin-6
-This Project For Homework Assgin #6
+# Array Input Display
+โปรเจกต์นี้เป็นการรับค่าข้อมูลจากผู้ใช้ผ่าน prompt และแสดงผลเป็น List โดยเรียงลำดับข้อมูลที่ผู้ใช้กรอกมา
+
+## เทคโนโลยีที่ใช้
+- HTML
+- CSS
+- JavaScript
+
+## เวอร์ชัน
+- V1.0 สร้างครั้งแรก
+- V1.1 เพิ่มรายละเอียด README.md
